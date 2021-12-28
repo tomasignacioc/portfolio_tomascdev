@@ -2,11 +2,15 @@ import React from 'react';
 
 import { Section, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import Button from '../../styles/GlobalComponents/Button';
-import { LeftSection } from './HeroStyles';
+import { LeftSection, ProfilePic } from './HeroStyles';
 
 const Hero = () => (
   <Section row nopadding>
     <LeftSection>
+      <SectionTitle>
+        Hi! My name is Tomás
+      </SectionTitle>
+      <ProfilePic src="/images/perfLinkedInact-rounded.png" />
       <SectionTitle>
         Welcome to <br />
         My Personal Portfolio

@@ -17,3 +17,17 @@ export const LeftSection = styled.div`
     margin: 0 auto;
   }
 `;
+
+export const ProfilePic = styled.img`
+  width:250px;
+  height:250px;
+  object-fit: cover;
+  overflow: hidden;
+  @media ${(props) => props.theme.breakpoints.sm} {
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    overflow: hidden;
+  }
+`
+
