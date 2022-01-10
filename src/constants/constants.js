@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/Atechna.png',
     tags: ['React', 'Redux', 'Express', 'Passport', 'MercadoPago'],
     source: 'https://github.com/Atechnas-App/atechnasapp',
-    visit: 'https://github.com/Atechnas-App/atechnasapp',
+    visit: 'https://atechnasapp.vercel.app/',
     id: 1,
   },
   {
