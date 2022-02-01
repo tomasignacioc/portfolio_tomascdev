@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://cryptoverse-tomasignacioc.vercel.app',
     id: 2,
   },
+  {
+    title: 'Amazon clone app',
+    description: 'An e-commerce that implements firebase and stripe functionalities for user authentication, database management and payment processing',
+    image: '/images/amazon-clone.png',
+    tags: ['React', 'Firebase', 'Stripe'],
+    source: 'https://github.com/tomasignacioc/amazon-clone',
+    visit: 'https://vimeo.com/user165312063/review/672167448/14edf157ee',
+    id: 3
+  }
 ];
 
 export const TimeLineData = [
