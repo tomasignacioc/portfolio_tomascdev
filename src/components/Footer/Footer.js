@@ -11,13 +11,8 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem href="mailto:contrerastomas7@gmail.com">
-          contrerastomas7@gmail.com
+            contrerastomas7@gmail.com
           </LinkItem>
-          <LinkTitle>Huge thanks to:</LinkTitle>
-          <LinkItem href="https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A" target="_blank" rel="noreferrer">
-          JavaScript Mastery <AiFillYoutube size="3rem"/>
-          </LinkItem>
-          For the tutorials and this template portfolio
         </LinkColumn>
       </LinkList>
       <SocialIconsContainer>

@@ -10,7 +10,6 @@ const Hero = () => (
       <SectionTitle>
         Hi! My name is Tomás
       </SectionTitle>
-      <ProfilePic src="/images/perfLinkedInact-rounded.png" />
       <SectionTitle>
         Welcome to <br />
         My Personal Portfolio
