@@ -45,12 +45,13 @@ const Timeline = () => {
 
   return (
     <Section id="about">
-      <SectionTitle>About me</SectionTitle>
+      <SectionTitle>More About me</SectionTitle>
       <SectionText>
-        I started learning the basics of JavaScript somewhere in June 2021 as a part of the prep course of a programming bootcamp. The bootcamp itself started a month later and it lasted for 5 months. <br />
-        We learned advanced JavaScript concepts, basic HTML and https protocols. React and Redux on the FrontEnd module; Node.js, Express.js, Promises and Async/Await on the BackEnd module
-        and the basics of database, SQL, PostgreSQL and Sequelize in the final module. <br /> Then we had to do 2 projects using all the knowledge we adquired: one personal and another group project.
-        After graduating I'm still learning and doing projects by myself, and looking for my first developer job <FaRegSmileBeam size="2rem" />
+        As I wanted a change in my career, I discovered programming and web development and inmediatly loved it.
+        Since then I've never stopped learning, building and working with amazing people of the field. I'm very excited of
+        the things you can accomplish as a software engineer.
+        My hobbies? I love playing football and go to the gym, spend time with friends and going outside to enjoy nature.
+        In the future I'd love to start studying music theory, since I love classical music and playing instruments  <FaRegSmileBeam size="2rem" />
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

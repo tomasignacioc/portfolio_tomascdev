@@ -11,11 +11,14 @@ const Hero = () => (
         Hi! My name is Tomás
       </SectionTitle>
       <SectionTitle>
-        Welcome to <br />
-        My Personal Portfolio
+        And I am a
+      </SectionTitle>
+      <SectionTitle>
+        Fullstack web developer
       </SectionTitle>
       <SectionText>
-        I'm aspiring to be a full-time developer and help solve problems. I'm very interested in web3 and blockchain development
+        I have 1 year of experience working on both Frontend and Backend. I love to bring solutions
+        and pursue optimization and organization
       </SectionText>
       <Button onClick={() => window.location = 'mailto:contrerastomas7@gmail.com'}>Contact me</Button>
     </LeftSection>
